@@ -1,0 +1,62 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "31f719ef103b7d0487123c4767cc18ee04070a9d.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/31f719ef103b7d0487123c4767cc18ee04070a9d.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 694416,
+      "hash": "31f719ef103b7d0487123c4767cc18ee04070a9d",
+      "sri": "o4WOgNLEf4DfCIc9IQWjHPmtYf/1a1ttaqlpPL9BY0cHMGBCOtZQ8/b1AUcIkMHO1jfZggbDC6+aWyoPV/l6Jg=="
+    },
+    {
+      "path": "31f719ef103b7d0487123c4767cc18ee04070a9d.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/31f719ef103b7d0487123c4767cc18ee04070a9d.stats.json?meteor_js_resource=true",
+      "size": 32725,
+      "hash": "c42897d3149c87d88aba1e547f2d181fdd60f36e",
+      "sri": "tdvcUziRZWvQR6ICeXdnXF6kmgPQuTvtT1VwI0ANdPTP5/ZydygoQ4MnFHxF8z7x0if1AR+Ml79oJMVOG3TRRg=="
+    },
+    {
+      "path": "ca2e9cdb64bacca7bc34db2c3d9914279a5ee9c4.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/ca2e9cdb64bacca7bc34db2c3d9914279a5ee9c4.css?meteor_css_resource=true",
+      "size": 572,
+      "hash": "ca2e9cdb64bacca7bc34db2c3d9914279a5ee9c4",
+      "sri": "b97tgirRnaIFFmUvkUXYZoVjmvfMRJHAEBb2fw4JcE1FekmbtT0XESm8ZYdQukSJYa31La8TfRghSHNHYWiH9g=="
+    },
+    {
+      "path": "app/img/404.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/404.svg",
+      "size": 9457,
+      "hash": "a4458ccae34b0fe95faecf52f03fa1830eeec1e4",
+      "sri": null
+    },
+    {
+      "path": "app/img/bg-footer.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-footer.svg",
+      "size": 61109,
+      "hash": "ec1fa7349123e2783d3173612f367158b05c61e6",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "8917b46f0b16bdc8a5e2d4dcf5d80e63de3da486"
+    }
+  ]
+}

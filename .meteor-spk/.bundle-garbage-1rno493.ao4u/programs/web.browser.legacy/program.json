@@ -1,0 +1,62 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "015a5ee993dd52e2b0b858055eeee97e4f56e659.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/015a5ee993dd52e2b0b858055eeee97e4f56e659.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 677433,
+      "hash": "015a5ee993dd52e2b0b858055eeee97e4f56e659",
+      "sri": "RPjEtLQztZx5xfI4lBOTngA/nsXxEVU6WCtgVDOwRGDmJLu9W5qXOasK4EATexXsF6NA1Arji4BHnqnhnvaEvQ=="
+    },
+    {
+      "path": "015a5ee993dd52e2b0b858055eeee97e4f56e659.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/015a5ee993dd52e2b0b858055eeee97e4f56e659.stats.json?meteor_js_resource=true",
+      "size": 32533,
+      "hash": "101e88683fc09c0a4804f8e5e2ca9681381d94a6",
+      "sri": "BuXMl+x9lKyOXBPgJ6DqaTAynZi7hT6iJ4/8dT8YdGoANNYnJDwNPbIoxGaxfustEysAcd9qPKOWmH3GvH2PqQ=="
+    },
+    {
+      "path": "ca2e9cdb64bacca7bc34db2c3d9914279a5ee9c4.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/ca2e9cdb64bacca7bc34db2c3d9914279a5ee9c4.css?meteor_css_resource=true",
+      "size": 572,
+      "hash": "ca2e9cdb64bacca7bc34db2c3d9914279a5ee9c4",
+      "sri": "b97tgirRnaIFFmUvkUXYZoVjmvfMRJHAEBb2fw4JcE1FekmbtT0XESm8ZYdQukSJYa31La8TfRghSHNHYWiH9g=="
+    },
+    {
+      "path": "app/img/404.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/404.svg",
+      "size": 9457,
+      "hash": "a4458ccae34b0fe95faecf52f03fa1830eeec1e4",
+      "sri": null
+    },
+    {
+      "path": "app/img/bg-footer.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-footer.svg",
+      "size": 61109,
+      "hash": "ec1fa7349123e2783d3173612f367158b05c61e6",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "14d7bbfc244621f68ca7f958b07e62facb08f126"
+    }
+  ]
+}

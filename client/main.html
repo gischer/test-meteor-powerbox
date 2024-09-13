@@ -1,0 +1,21 @@
+<head>
+  <title>Meteor Powerbox Test</title>
+</head>
+
+<body>
+  <h1>Testing the Powerbox</h1>
+
+  <p>This is a test of Sandstorm's Powerbox as implemented on Meteor.  Click the button below to begin the test.</p>
+
+  {{> hello}}
+</body>
+
+<template name="hello">
+  {{#if buttonClicked}}
+    <button id='fetch-button'>Fetch</button>
+  {{else}}
+    <button id='start-button'>Click Me</button>
+  {{/if}}
+
+</template>
+
